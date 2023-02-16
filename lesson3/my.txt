@@ -1,0 +1,1 @@
+[object Object]{"name":"qaaaaa","age":25,"email":"qwertyui"}{"name":"aaaaa","age":25,"email":"qwertyui"}
